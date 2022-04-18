@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmarHosny4
-- 👀 I’m interested in Programing and new technologies
-- 🌱 I’m currently learning css,Js,Dart,Html and Paython
+- 👀 I’m interested in Programing, new technologies and iam front end web developer
+- 🌱 I’m currently learning React JS
 - 📫 How to reach me 'hosnyomar022.gmail.com'
 
 <!---
